@@ -14,4 +14,3 @@ function getSum(numbers) {
 
 const myNumbers = [23, 323, 534, 23, 43, 53, 55];
 getSum(myNumbers);
-test
